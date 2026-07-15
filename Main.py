@@ -1,3 +1,0 @@
-name = print("Hello World")
-
-
