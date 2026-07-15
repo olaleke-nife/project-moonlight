@@ -1,2 +1,3 @@
-print("Hello World")
+name = print("Hello World")
+
 
